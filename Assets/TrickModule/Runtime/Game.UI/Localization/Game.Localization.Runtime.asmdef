@@ -1,0 +1,17 @@
+{
+    "name": "Game.Localization.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4033817b1a016674393f1afdc79f042f",
+        "GUID:8cc0a9924e5856d4982b19af0e96ee02"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

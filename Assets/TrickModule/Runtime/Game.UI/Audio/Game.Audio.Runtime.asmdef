@@ -1,0 +1,19 @@
+{
+    "name": "Game.Audio.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4033817b1a016674393f1afdc79f042f",
+        "GUID:8cc0a9924e5856d4982b19af0e96ee02",
+        "GUID:23dc403c3674324419b913eccff4b5b5",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
